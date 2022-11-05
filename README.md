@@ -12,5 +12,5 @@ Furthermore, I'm constantly interested in learning new ways to make technology, 
 All my works will be shown here. Stay tuned :)
 
 ## Assignments (critiques, discussions, etc.)
-[General government debt for 2021](/dataviz2.md)
+[General government debt](/dataviz2.md)
 ## [Final Project](final_project)
