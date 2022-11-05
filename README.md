@@ -11,5 +11,6 @@ Furthermore, I'm constantly interested in learning new ways to make technology, 
 # Portfolio
 All my works will be shown here. Stay tuned :)
 
-## [Future Assignments (critiques, discussions, etc.)](future_assignments)
+## Assignments (critiques, discussions, etc.)
+[General government debt for 2021](/dataviz2.md)
 ## [Final Project](final_project)
