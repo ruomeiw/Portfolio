@@ -11,7 +11,7 @@ This grid of line charts include and reflect the trend and changes of each count
 ## General government debt from 1995 to 2021 (pie chart with time slider)
 
 This pie chart shows the proportions of the government debt of each country, and the time slider enables the audience to select the year they would like to focus on. Moreover, the "Play" function of the time slider presents an animation of the changes in the data throughout the years. 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11712170"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11712427"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## My takeaway
 
