@@ -39,7 +39,6 @@ This is the first sketch I created using Tableau.
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
-    <param name='display_count' value='no' />
     <param name='language' value='en-US' />
   </object>
 </div>                
@@ -76,7 +75,6 @@ After that, I drew my second sketch.
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
-    <param name='display_count' value='no' />
     <param name='language' value='en-US' />
   </object>
 </div>                
