@@ -98,3 +98,6 @@ Only the top 100 genres are presented, and each genre has its own stacked area c
 
 ## My Takeaway
 I had no idea that we could make this many diverse visualizations utilizing the same data set before this critiquing assignment. Because I love this topic and have learned so much more about different music genres, I also had a lot of fun making the sketches. I'm also impressed by how drastically the storytelling may alter with only a small tweak to the graphic.
+
+
+## [< Go back to the main page](/README.md)
