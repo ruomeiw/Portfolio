@@ -39,14 +39,15 @@ This is the first sketch I created using Tableau.
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
+    <param name='display_count' value='no' />
     <param name='language' value='en-US' />
   </object>
 </div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1668475101838');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
@@ -75,20 +76,22 @@ After that, I drew my second sketch.
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
+    <param name='display_count' value='no' />
     <param name='language' value='en-US' />
   </object>
 </div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1668475236756');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
 This time, all the labels are visible and only the top 100 genres are listed. When I reintroduced this to my audience, they suggested that I consider including the year like the original graphic.
+
 <br>
 Then I used Flourish Studio to produce a new graphic. The disparities between the data points, however, are so great that only a few categories are showing results in the 50% to 60% range, while the remainder are still floating around 0%. I realize that a single line chart might not be the best option.
 <br><br>
