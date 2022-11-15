@@ -21,6 +21,7 @@ I started analyzing the raw data I had downloaded from Data.World with all these
 
 ## My Sketches and User Feedback
 This is the first sketch I created using Tableau.
+<br>
 <div class='tableauPlaceholder' id='viz1668475101838' style='position: relative'>
   <noscript>
     <a href='#'><img alt='Music Genres of the Billboard Hot 100 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MusicGenresoftheBillboardHot100&#47;Sheet1&#47;1_rss.png' style='border: none' />
@@ -51,9 +52,12 @@ This is the first sketch I created using Tableau.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-I displayed my initial sketch to two friends, one of whom is currently taking this course and the other who took it last semester. According to feedback, this graphic is simpler than the original, but because there are so many genres covered, many of them are no longer discernible in this Tree Map. They also said I should focus on the top 100 genres because people might not be interested in knowing about so many others.
+<br>
+I displayed my initial sketch to two friends, one of whom is currently taking this course and the other who took it last semester. According to feedback, this graphic is simpler than the original, but because there are so many genres covered, many of them are no longer showing in this Tree Map. They also said I should focus on the top 100 genres because people might not be interested in knowing about so many others.
 
+<br>
 After that, I drew my second sketch.
+<br>
 <div class='tableauPlaceholder' id='viz1668475236756' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -83,9 +87,9 @@ After that, I drew my second sketch.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+<br>
 This time, all the labels are visible and only the top 100 genres are listed. When I reintroduced this to my audience, they suggested that I consider including the year like the original graphic.
-
+<br>
 Then I used Flourish Studio to produce a new graphic. The disparities between the data points, however, are so great that only a few categories are showing results in the 50% to 60% range, while the remainder are still floating around 0%. I realize that a single line chart might not be the best option.
 <br><br>
 <img width="900" alt="Wireframe3" src="https://user-images.githubusercontent.com/107513376/201801969-1819257a-dfe3-4676-ac2c-8132c115f23f.PNG">
@@ -94,7 +98,6 @@ Then I used Flourish Studio to produce a new graphic. The disparities between t
 The updated data visualization I came up with is shown below. It is **unambiguous, straightforward, interactive, and simple to read**. 
 Only the top 100 genres are presented, and each genre has its own stacked area chart with year labels so that viewers can easily understand how each genre has changed over time and which ones are among the most popular. For instance, the most popular genres are the first two rows, and they consistently appear in the charts; other genres, like hard rock, occasionally go off the chart.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817597"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 
 ## My Takeaway
 I had no idea that we could make this many diverse visualizations utilizing the same data set before this critiquing assignment. Because I love this topic and have learned so much more about different music genres, I also had a lot of fun making the sketches. I'm also impressed by how drastically the storytelling may alter with only a small tweak to the graphic.
