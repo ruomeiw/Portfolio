@@ -22,7 +22,7 @@ Using the **Data Visualization Effectiveness Profile**, I am able to define and 
 I started analyzing the raw data I had downloaded from Data.World with all these considerations in mind. The raw data is complicated since the music genres of each song are layered together in a single Excel cell. I wrote a *Python program* to process the data in order to separate and extract each and every genre. The data was then loaded into Tableau.
 
 ## Sketches and User Feedback
-**First Sketch**
+### First Sketch
 <br>
 <div class='tableauPlaceholder' id='viz1668475101838' style='position: relative'>
   <noscript>
@@ -65,7 +65,8 @@ _Student, mid 20s_
 > Maybe you could focus on the top 100 genres because too many genres make the graphic look too busy.
 
 <br>
-**Second Sketch**
+
+### Second Sketch
 
 <div class='tableauPlaceholder' id='viz1668475236756' style='position: relative'>
   <noscript>
@@ -112,7 +113,7 @@ _Student, early 20s_
 
 <br>
 
-**Third Sketch**
+### Third Sketch
 
 Then I used Flourish Studio to create another type of chart - line chart. The disparities between the data points, however, are so great that only a few categories are showing results in the 50% to 60% range, while the remainder are still floating around 0%. I realize that a single line chart might not be the best option.
 <br><br>
@@ -120,11 +121,13 @@ Then I used Flourish Studio to create another type of chart - line chart. The di
 
 <br>
 
-**Fourth Sketch**
+### Fourth Sketch
 
 Then I switched to a grid stacked area chart.
 The genres are cut down to 100 most popular categories, and each genre has its own stacked area chart with year labels so that viewers can easily understand how each genre has changed over time and which ones are among the most popular. For instance, the most popular genres are the first two rows, and they consistently appear in the charts; other genres, like hard rock, occasionally go off the chart.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817597"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<br>
 
 **User Feedback**
 
