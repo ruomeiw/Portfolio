@@ -15,12 +15,14 @@ My favorite hobby is discovering excellent music, and I've always been passionat
 
 * Third, to reach the primary audience more effectively, we need to provide more specific figures or percentages. 
 
-Using the **Data Visualization Effectiveness Profile**, I am able to define and discuss what is missing in this visualization. This visualization has many positive qualities that we can learn from (high data truthfulness, technological data processing techniques, etc.), but it also has several drawbacks that could be fixed. I can also pinpoint who the visualization is intended for: anyone curious to know more about how the best known musical genres have changed over the course of the Billboard Hot 100 from 1958 to 2021.The primary audience are music ethusiastic who focuses on the details of the music industry, and they aim for more detailed and specific information.
+Using the **Data Visualization Effectiveness Profile**, I am able to define and discuss what is missing in this visualization. This visualization has many positive qualities that we can learn from (high data truthfulness, technological data processing techniques, etc.), but it also has several drawbacks that could be fixed. I can also pinpoint who the visualization is intended for: anyone curious to know more about how the best known musical genres have changed over the course of the Billboard Hot 100 from 1958 to 2021.The primary audience are music ethusiastic who focuses on the details of the music industry, and they aim for more detailed and specific information. Below is how I rate this visualization using this method.
+
+<div class="flourish-embed" data-src="visualisation/11834901"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I started analyzing the raw data I had downloaded from Data.World with all these considerations in mind. The raw data is complicated since the music genres of each song are layered together in a single Excel cell. I wrote a *Python program* to process the data in order to separate and extract each and every genre. The data was then loaded into Tableau.
 
-## My Sketches and User Feedback
-This is the first sketch I created using Tableau.
+## Sketches and User Feedback
+**First Sketch**
 <br>
 <div class='tableauPlaceholder' id='viz1668475101838' style='position: relative'>
   <noscript>
@@ -51,13 +53,21 @@ This is the first sketch I created using Tableau.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+<br>
 
-<br>
-I displayed my initial sketch to two friends, one of whom is currently taking this course and the other who took it last semester. According to feedback, this graphic is simpler than the original, but because there are so many genres covered, many of them are no longer showing in this Tree Map. They also said I should focus on the top 100 genres because people might not be interested in knowing about so many others.
 
-<br>
-After that, I drew my second sketch.
-<br>
+**User Feedback**
+
+_Student, early 20s_
+> This graphic is simpler than the original! But because there are so many genres covered, many of them are no longer showing in this Tree Map.
+
+_Student, mid 20s_
+> Maybe you could focus on the top 100 genres because too many genres make the graphic look too busy.
+
+
+
+**Second Sketch**
+
 <div class='tableauPlaceholder' id='viz1668475236756' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -88,17 +98,50 @@ After that, I drew my second sketch.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
-This time, all the labels are visible and only the top 100 genres are listed. When I reintroduced this to my audience, they suggested that I consider including the year like the original graphic.
+
+This time, more the labels are visible and only the top 100 genres are listed. 
+
+**User Feedback**
+
+_Adult, mid 20s_
+> Consider including the year information like the original graphic?
+
+_Student, early 20s_
+> Tree map makes people focus on the area sizes instead of the differences between them.
 
 <br>
-Then I used Flourish Studio to produce a new graphic. The disparities between the data points, however, are so great that only a few categories are showing results in the 50% to 60% range, while the remainder are still floating around 0%. I realize that a single line chart might not be the best option.
+
+**Third Sketch**
+
+Then I used Flourish Studio to create another type of chart - line chart. The disparities between the data points, however, are so great that only a few categories are showing results in the 50% to 60% range, while the remainder are still floating around 0%. I realize that a single line chart might not be the best option.
 <br><br>
 <img width="900" alt="Wireframe3" src="https://user-images.githubusercontent.com/107513376/201801969-1819257a-dfe3-4676-ac2c-8132c115f23f.PNG">
 
-## Final Redesigned Data Visualization
-The updated data visualization I came up with is shown below. It is **unambiguous, straightforward, interactive, and simple to read**. 
-Only the top 100 genres are presented, and each genre has its own stacked area chart with year labels so that viewers can easily understand how each genre has changed over time and which ones are among the most popular. For instance, the most popular genres are the first two rows, and they consistently appear in the charts; other genres, like hard rock, occasionally go off the chart.
+**Fourth Sketch**
+
+Then I switched to a grid stacked area chart.
+The genres are cut down to 100 most popular categories, and each genre has its own stacked area chart with year labels so that viewers can easily understand how each genre has changed over time and which ones are among the most popular. For instance, the most popular genres are the first two rows, and they consistently appear in the charts; other genres, like hard rock, occasionally go off the chart.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817597"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+**User Feedback**
+
+_Student, early 20s_
+> 100 genres is still too much information for people to preceive. 20 or so should be enough.
+
+_Student, early 20s_
+> This is more unambiguous, straightforward, interactive, and simple to read! But there are too many similar genres like "Album Rock", "Hard Rock", and "Country Rock". 
+
+From all the suggestions, I created my final visualization.
+
+## Final Data Visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/11832583"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I did more data cleaning to combine the similar music genres, now the genres are much more consolidated.
+
+Here are explainations of the components in this graphic:
+- The percentage presents the proportion of a certain genre in a given year. The greater the percentage is, the more dominant this genre was in that year.
+- The genres were sorted by their total counts throughout the years (1985 - 2021).
+- The "wavy fringe" of each area chart shows the trend of this music genre throughout the years on the Billboard Hot 100 chart.
 
 ## My Takeaway
 I had no idea that we could make this many diverse visualizations utilizing the same data set before this critiquing assignment. Because I love this topic and have learned so much more about different music genres, I also had a lot of fun making the sketches. I'm also impressed by how drastically the storytelling may alter with only a small tweak to the graphic.
