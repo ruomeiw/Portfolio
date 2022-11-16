@@ -142,6 +142,9 @@ Taking all the suggestions into account, I created my final visualization.
 
 I did more data cleaning to **combine similar music genres**, now the genres are much more consolidated.
 
+<img width="1584" alt="Group 2" src="https://user-images.githubusercontent.com/107513376/202311982-596fca73-e2b8-4761-b275-f4a364e05afa.png">
+
+
 Here are explainations of the components in this graphic:
 - The percentage presents the proportion of a certain genre in a given year. The greater the percentage is, the more dominant this genre was in that year.
 - The genres were sorted by their total counts throughout the years (1985 - 2021).
