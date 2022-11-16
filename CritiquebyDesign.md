@@ -15,7 +15,7 @@ My favorite hobby is discovering excellent music, and I've always been passionat
 
 - Third, to reach the primary audience more effectively, we need to provide more specific figures or percentages. 
 
-Using the **Data Visualization Effectiveness Profile**, I am able to define and discuss what is missing in this visualization. This visualization has many positive qualities that we can learn from (high data truthfulness, technological data processing techniques, etc.), but it also has several drawbacks that could be fixed. I can also pinpoint who the visualization is intended for: anyone curious to know more about how the best known musical genres have changed over the course of the Billboard Hot 100 from 1958 to 2021.The primary audience are music ethusiastic who focuses on the details of the music industry, and they aim for more detailed and specific information. Below is how I rate this visualization using this method.
+Using the **Data Visualization Effectiveness Profile**, I am able to define and discuss what is missing in this visualization. This visualization has many positive qualities that we can learn from (high data truthfulness, technological data processing techniques, etc.), but it also has several drawbacks that could be fixed. I can also pinpoint who the visualization is intended for: anyone curious to know more about how the best known musical genres have changed over the course of the Billboard Hot 100 from 1958 to 2021. The primary audience are music ethusiastic who focuses on the details of the music industry, and they aim for more detailed and specific information. Below is how I rate this visualization using this method.
 
 <div class="flourish-embed" data-src="visualisation/11834901"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -100,7 +100,6 @@ _Student, mid 20s_
 <br>
 
 This time, more the labels are visible and only the top 100 genres are listed. 
-
 <br>
 
 **User Feedback**
@@ -128,7 +127,6 @@ The genres are cut down to 100 most popular categories, and each genre has its o
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817597"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br>
-
 **User Feedback**
 
 _Student, early 20s_
