@@ -7,13 +7,13 @@ Link to the original visualization is [here](https://github.com/gkaramanis/tidyt
 Original Dataset can be downloaded from [Data.World](https://data.world/kcmillersean/billboard-hot-100-1958-2017#)
 
 ## My Process
-My favorite hobby is discovering excellent music, and I've always been passionate in learning about all of the different musical genres. So I started looking for graphics related to music when I needed to discover data visualizations to analyze and develop. I discovered the original data visualization seen above. Although the visualization is **already fantastic**, I think it might be even better.
+My favorite hobby is discovering excellent music, and I've always been passionate in learning about all of the different musical genres. So I started looking for graphics related to music when I needed to discover data visualizations to analyze and develop. I discovered the original data visualization seen above. Although the visualization is **already fantastic**, I think it could be even better.
 
-* The color scheme and the genre labels in this data visualization caught my attention the most at first glance. The rainbow-like color scheme is attractive and does a great job at drawing audiences. The categories of the genres, however, progressively start to have similar colors and merge towards the top and bottom of the picture, making it fairly difficult for the viewer to distinguish between them. I would work to distinguish between different genres so that it would be simpler for the audience to recognize each one at a glance.
+- The color scheme and the genre labels in this data visualization caught my attention the most at first glance. The rainbow-like color scheme is attractive and does a great job at drawing audiences. The categories of the genres, however, progressively start to have similar colors and merge towards the top and bottom of the picture, making it fairly difficult for the viewer to distinguish between them. I would work to distinguish between different genres so that it would be simpler for the audience to recognize each one at a glance.
 
-* Second, the genre labels distinguished each genre category, but the font size was too small in certain spots, making it difficult for human eyes to read. Additionally, the representation is quite noisy and confusing due to the quantity of labels. To simplify the representation, I would do away with the labels and use titles to identify each genre. In addition, I'll display the proportion of each genre in each year to illustrate both the proportion and any changes or trends.
+- Second, the genre labels distinguished each genre category, but the font size was too small in certain spots, making it difficult for human eyes to read. Additionally, the representation is quite noisy and confusing due to the quantity of labels. To simplify the representation, I would do away with the labels and use titles to identify each genre. In addition, I'll display the proportion of each genre in each year to illustrate both the proportion and any changes or trends.
 
-* Third, to reach the primary audience more effectively, we need to provide more specific figures or percentages. 
+- Third, to reach the primary audience more effectively, we need to provide more specific figures or percentages. 
 
 Using the **Data Visualization Effectiveness Profile**, I am able to define and discuss what is missing in this visualization. This visualization has many positive qualities that we can learn from (high data truthfulness, technological data processing techniques, etc.), but it also has several drawbacks that could be fixed. I can also pinpoint who the visualization is intended for: anyone curious to know more about how the best known musical genres have changed over the course of the Billboard Hot 100 from 1958 to 2021.The primary audience are music ethusiastic who focuses on the details of the music industry, and they aim for more detailed and specific information. Below is how I rate this visualization using this method.
 
@@ -64,8 +64,7 @@ _Student, early 20s_
 _Student, mid 20s_
 > Maybe you could focus on the top 100 genres because too many genres make the graphic look too busy.
 
-
-
+<br>
 **Second Sketch**
 
 <div class='tableauPlaceholder' id='viz1668475236756' style='position: relative'>
@@ -101,6 +100,8 @@ _Student, mid 20s_
 
 This time, more the labels are visible and only the top 100 genres are listed. 
 
+<br>
+
 **User Feedback**
 
 _Adult, mid 20s_
@@ -117,6 +118,8 @@ Then I used Flourish Studio to create another type of chart - line chart. The di
 <br><br>
 <img width="900" alt="Wireframe3" src="https://user-images.githubusercontent.com/107513376/201801969-1819257a-dfe3-4676-ac2c-8132c115f23f.PNG">
 
+<br>
+
 **Fourth Sketch**
 
 Then I switched to a grid stacked area chart.
@@ -131,12 +134,12 @@ _Student, early 20s_
 _Student, early 20s_
 > This is more unambiguous, straightforward, interactive, and simple to read! But there are too many similar genres like "Album Rock", "Hard Rock", and "Country Rock". 
 
-From all the suggestions, I created my final visualization.
+Taking all the suggestions into account, I created my final visualization.
 
 ## Final Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/11832583"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I did more data cleaning to combine the similar music genres, now the genres are much more consolidated.
+I did more data cleaning to **combine similar music genres**, now the genres are much more consolidated.
 
 Here are explainations of the components in this graphic:
 - The percentage presents the proportion of a certain genre in a given year. The greater the percentage is, the more dominant this genre was in that year.
