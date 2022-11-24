@@ -17,4 +17,5 @@ Furthermore, I'm constantly interested in learning new ways to make technology, 
 [Assignment 2 - General government debt](/dataviz2.md)<br>
 [Assignment 3 & 4 - Critique by Design](/CritiquebyDesign.md)
 
-## [Final Project](final_project)
+## Final Project
+[Final Project - Part I](/final_project_part1.md)
