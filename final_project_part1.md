@@ -65,13 +65,13 @@ This public dataset contains information on 40 different types of foods, such as
 > 
 > [Link to the report](https://www.cell.com/cell-metabolism/pdf/S1550-4131(19)30248-7.pdf)
 
-This is a clinical and translational report about cell metabolism. This report has many charts and data that could be used for this project. The data are very clinic and granular, including a comparison between a diet presented to the subjects with ultra-Processed and unprocessed foods, graphs about the changes in energy intake, body weight, fat mass, energy expenditure (sleeping and sedentary), physical activity expenditure, and daily CO2 production. This clinical research also tracks the changes in glucose and insulin during the ultra-processed and unprocessed diet periods.
+This is a clinical and translational report about cell metabolism. This report has many charts and data that could be used for this project. The data are very clinical and detailed, including a comparison between a diet presented to the subjects with ultra-Processed and unprocessed foods, graphs about the changes in energy intake, body weight, fat mass, energy expenditure (sleeping and sedentary), physical activity expenditure, and daily CO2 production. This clinical research also tracks the changes in glucose and insulin during the ultra-processed and unprocessed diet periods.
 
 > Ultra-Processed Foods in University Students: Implementing Nutri-Score to Make Healthy Choices
 >
 > [Link to the paper](https://doi.org/10.3390/healthcare10060984)
 
-This paper focused on university students' eating habits and explores what kind of ultra-processed food students prone to consume and why they choose to do so. This paper includes many survey data about university students' dining choices. The survey data also include the differences for male and female students, so the data in this paper would be extremely helpful if I decide to make visualizations about different opinions and choices about food between males and females.
+This scholarly paper examined the dietary habits of college students, focusing on the types of ultra-processed foods they are most likely to choose to eat and their motivations. Numerous survey results about college students' dining preferences are included in this report. The data in this research would be very beneficial if I decide to develop visualizations on varied perspectives and food choices between males and females because the survey results include include differences for male and female students.
 
 ## Method and medium
 
@@ -85,3 +85,5 @@ For the final project presentation, I will use Shorthand to create a smooth and 
 4. McManus, K. D. (2020, January 9). What are ultra-processed foods and are they bad for our health? Harvard Health. Retrieved November 23, 2022, from https://www.health.harvard.edu/blog/what-are-ultra-processed-foods-and-are-they-bad-for-our-health-2020010918605
 5. Schomaker, J. (2021). Natural & Ultra-Processed Foods (NUPF) database [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.4601555
 6. U.S. Department of Health and Human Services. (n.d.). How to read food and beverage labels. National Institute on Aging. Retrieved November 23, 2022, from https://www.nia.nih.gov/health/how-read-food-and-beverage-labels 
+
+## [< Go back to the main page](/README.md)
