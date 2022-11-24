@@ -17,8 +17,7 @@ In order to identify the ideal food that is minimally processed and quick to mak
 
 First, I will show everyone the typical food intake breakdown for college students from a survey conducted among 161 university students at the University of Girona. 
 
-<img width="672" alt="Sketch_Everyday" src="https://user-images.githubusercontent.com/107513376/203679651-a507eac5-35f2-40ad-beca-f7b73c4fa078.PNG">
-
+<img width="1149" alt="Sketch_Breakdown" src="https://user-images.githubusercontent.com/107513376/203689647-7973969b-e8de-4c85-81f2-0f95616d2be4.PNG">
 
 * **Conflict**
 
