@@ -19,3 +19,4 @@ Furthermore, I'm constantly interested in learning new ways to make technology, 
 
 ## Final Project
 [Final Project - Part I](/final_project_part1.md)
+[Final Project - Part II](/final_project_part2.md)
