@@ -74,4 +74,4 @@ Besides this, I will continue researching for data set and create visualizations
 10. Schomaker, J. (2021). Natural & Ultra-Processed Foods (NUPF) database [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.4601555
 11. U.S. Department of Health and Human Services. (n.d.). How to read food and beverage labels. National Institute on Aging. Retrieved November 23, 2022, from https://www.nia.nih.gov/health/how-read-food-and-beverage-labels
 
-
+## [< Go back to the main page](/README.md)
