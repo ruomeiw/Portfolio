@@ -44,6 +44,6 @@ I had to make a number of design choices during the process to make sure my stor
 
 Working on this project made me realize how crucial it is to keep the audience in mind when developing a data story. To be truly effective, the story must be tailored to the audience's interests and requirements and not just simply deliver the data and findings. I was able to better understand my audience and develop a story that resonated with them through conducting interviews.
 
-Now I am proud to present my final Shorthand presentation! 
+You can take a look my Shorthand presentation here or access it through this [link](https://carnegiemellon.shorthandstories.com/ultra-processed-food-final-version/index.html).
 
 <script src="https://carnegiemellon.shorthandstories.com/ultra-processed-food-final-version/embed.js"></script>
