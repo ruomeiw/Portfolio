@@ -12,14 +12,20 @@ Using all the available powerful tools, I wish to learn how to properly and comp
 Furthermore, I'm constantly interested in learning new ways to make technology, data, and even code more visually appealing because I firmly believe that beauty and technology are not mutually exclusive. The ability to effectively represent my beliefs, my community (female engineers, underrepresented people in tech, etc.), and myself is what I most want to learn. 
 
 
-## Assignments (critiques, discussions, etc.)
+## My Works
 
-[Assignment 2 - General government debt](/dataviz2.md)
+[General government debt](/dataviz2.md)
 
-[Assignment 3 & 4 - Critique by Design](/CritiquebyDesign.md)
+In this assignment, I was able to highlight various components of the same general government debt data and show the audience various aspects of the data by using different visualization techniques.
 
-## Final Project
+[Critique by Design](/CritiquebyDesign.md)
 
-[Final Project - Part I](/final_project_part1.md)
+In this assignment, I discovered a data visualization that is already fantastic, but I think it could be even better. Using the Data Visualization Effectiveness Profile, I am able to define and discuss what is missing in this visualization. I analyzed the raw data, conducted user research, and recreated this visualization using different techniques.
 
-[Final Project - Part II](/final_project_part2.md)
+**Final Project - Ultra Processed Foods (What are they and why should we avoid them)**
+
+[Part I](/final_project_part1.md)
+
+[Part II](/final_project_part2.md)
+
+[Part III](/final_project_part3.md)
