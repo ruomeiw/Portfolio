@@ -4,7 +4,7 @@
 
 [< Go to Final Project Part II](/final_project_part2.md)
 
-[< Go to Final Project Part II](/final_project_part3.md)
+[< Go to Final Project Part III](/final_project_part3.md)
 
 ## Project Outline
 In our life, food is essential. Every day, we look forward to breakfast to get the day started; lunch turns food and drink into a lively and productive afternoon; and dinner with friends or family brings an end to the day's hassles. Have you ever considered how processed the meal you just ate is, though? Was it nutritious? What changes will it make to your body?
