@@ -1,4 +1,11 @@
 # Final Project - Part II
+
+[< Go back to the main page](/README.md)
+
+[< Go to Final Project Part I](/final_project_part1.md)
+
+[< Go to Final Project Part III](/final_project_part3.md)
+
 ## Wireframes
 I created a set of wireframes of how I want to pan out the presentation. 
 
