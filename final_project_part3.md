@@ -47,3 +47,18 @@ Working on this project made me realize how crucial it is to keep the audience i
 You can take a look my Shorthand presentation here or access it through this [link](https://carnegiemellon.shorthandstories.com/ultra-processed-food-final-version/index.html).
 
 <script src="https://carnegiemellon.shorthandstories.com/ultra-processed-food-final-version/embed.js"></script>
+
+
+## Works Cited
+
+1. Adams, J., & White, M. (2015). Characterisation of UK diets according to degree of food processing and associations with socio-demographics and obesity: Cross-sectional analysis of UK National Diet and Nutrition Survey (2008–12). *International Journal of Behavioral Nutrition and Physical Activity*, *12*(1). https://doi.org/10.1186/s12966-015-0317-y 
+2. Bandurski, K. (2022, February 10). *40 healthy recipes any college student can master*. Taste of Home. Retrieved November 29, 2022, from https://www.tasteofhome.com/collection/easy-healthy-college-meals/ 
+3. British Heart Foundation. (n.d.). Ultra-processed foods linked to early death. BHF. Retrieved November 23, 2022, from https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/behind-the-headlines/ultra-processed-foods#:~:text=Examples%20of%20ultra%2Dprocessed%20foods,whisky%2C%20gin%2C%20and%20rum.
+4. Fondevila-Gascón, J.-F., Berbel-Giménez, G., Vidal-Portés, E., & Hurtado-Galarza, K. (2022). Ultra-processed foods in university students: Implementing Nutri-Score to make healthy choices. Healthcare, 10(6), 984. https://doi.org/10.3390/healthcare10060984
+5. Hall, K. D., Ayuketah, A., Brychta, R., Cai, H., Cassimatis, T., Chen, K. Y., Chung, S. T., Costa, E., Courville, A., Darcey, V., Fletcher, L. A., Forde, C. G., Gharib, A. M., Guo, J., Howard, R., Joseph, P. V., McGehee, S., Ouwerkerk, R., Raisinger, K., … Zhou, M. (2019). Ultra-processed diets cause excess calorie intake and weight gain: An inpatient randomized controlled trial of AD Libitum Food Intake. Cell Metabolism, 30(1). https://doi.org/10.1016/j.cmet.2019.05.008
+6. Kuhns, A., & Saksena, M. (2017). Food Purchase Decisions of Millennial Households Compared to Other Generations. *Economic Information Bulletin*, *No. (EIB-186)*, 57. https://doi.org/10.22004/ag.econ.291931
+7. McManus, K. D. (2020, January 9). What are ultra-processed foods and are they bad for our health? Harvard Health. Retrieved November 23, 2022, from https://www.health.harvard.edu/blog/what-are-ultra-processed-foods-and-are-they-bad-for-our-health-2020010918605
+8. *Roasted zucchini, Baby Bella mushroom with sun-dried tomatoes*. Caribbean Green Living - Delicious recipes, Meal Planning & Cooking Tips. (2022, November 20). Retrieved November 29, 2022, from https://www.caribbeangreenliving.com/roasted-zucchini-baby-bella-mushroom-with-sun-dried-tomatoes/ 
+9. Sadlier, A. (2021, September 6). *Americans experiencing cooking fatigue while stuck at home during the pandemic*. SWNS Digital. Retrieved November 27, 2022, from https://swnsdigital.com/us/2020/08/many-americans-are-experiencing-cooking-fatigue-while-stuck-at-home-during-the-pandemic/ 
+10. Schomaker, J. (2021). Natural & Ultra-Processed Foods (NUPF) database [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.4601555
+11. U.S. Department of Health and Human Services. (n.d.). How to read food and beverage labels. National Institute on Aging. Retrieved November 23, 2022, from https://www.nia.nih.gov/health/how-read-food-and-beverage-labels
